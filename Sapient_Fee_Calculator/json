@@ -1,0 +1,94 @@
+{
+"transactionBeanList":[
+{
+"externalTransactionID":"SAPEXTXN1",
+"clientId":"GS",
+"securityId":"RELIND",
+"transactionType":"WITHDRAW",
+"transactionDate":"18-07-2017 11:34:46",
+"marketValue":113.45,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN2",
+"clientId":"AP",
+"securityId":"ICICI",
+"transactionType":"SELL",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":123.90,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN3",
+"clientId":"AS",
+"securityId":"REL",
+"transactionType":"SELL",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":123.90,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN4",
+"clientId":"GS",
+"securityId":"RELIND",
+"transactionType":"DEPOSIT",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":343.90,
+"priority":false
+},
+{
+"externalTransactionID":"SAPEXTXN5",
+"clientId":"AP",
+"securityId":"HINDALCO",
+"transactionType":"DEPOSIT",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":123.90,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN6",
+"clientId":"AP",
+"securityId":"REL",
+"transactionType":"SELL",
+"transactionDate":"11-02-2013 10:24:56",
+"marketValue":563.10,
+"priority":false
+},
+{
+"externalTransactionID":"SAPEXTXN7",
+"clientId":"GS",
+"securityId":"REL",
+"transactionType":"SELL",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":123.90,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN8",
+"clientId":"HJ",
+"securityId":"REL",
+"transactionType":"SELL",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":123.90,
+"priority":false
+},
+{
+"externalTransactionID":"SAPEXTXN9",
+"clientId":"AP",
+"securityId":"ICICI",
+"transactionType":"BUY",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":400.90,
+"priority":true
+},
+{
+"externalTransactionID":"SAPEXTXN10",
+"clientId":"AS",
+"securityId":"REL",
+"transactionType":"SELL",
+"transactionDate":"12-03-2018 10:24:56",
+"marketValue":143.90,
+"priority":false
+}
+]
+}
